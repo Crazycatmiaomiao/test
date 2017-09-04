@@ -1,0 +1,29 @@
+1503996575919	geckodriver	INFO	geckodriver 0.18.0
+1503996575934	geckodriver	INFO	Listening on 127.0.0.1:54194
+1503996663152	geckodriver	INFO	geckodriver 0.18.0
+1503996663168	geckodriver	INFO	Listening on 127.0.0.1:54306
+1503997237154	geckodriver	INFO	geckodriver 0.18.0
+1503997237168	geckodriver	INFO	Listening on 127.0.0.1:54408
+1503998834553	geckodriver	INFO	geckodriver 0.18.0
+1503998834568	geckodriver	INFO	Listening on 127.0.0.1:55565
+1503998843257	geckodriver	INFO	geckodriver 0.18.0
+1503998843272	geckodriver	INFO	Listening on 127.0.0.1:55575
+1503999253044	geckodriver	INFO	geckodriver 0.18.0
+1503999253056	geckodriver	INFO	Listening on 127.0.0.1:55836
+1504170027043	geckodriver	INFO	geckodriver 0.18.0
+1504170027065	geckodriver	INFO	Listening on 127.0.0.1:64973
+1504170029118	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504170030014	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504170030710	Marionette	INFO	Enabled via --marionette
+1504170033317	Marionette	INFO	Listening on port 64983
+1504170033346	Marionette	INFO	Listening on port 64983
+1504170033498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504170033569	Marionette	DEBUG	loaded listener.js
+1504170033636	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504170034187	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504170034188	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504170034739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504170038865	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1504170039066	Marionette	INFO	New connections will no longer be accepted
+1504344207843	geckodriver	INFO	geckodriver 0.18.0
+1504344207859	geckodriver	INFO	Listening on 127.0.0.1:49735
